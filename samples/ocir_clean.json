@@ -1,0 +1,10 @@
+{
+  "repos": [
+    {"name": "webshop/frontend", "is_public": false,
+     "images": [{"tag": "latest", "pushed_at": "2026-11-19"},
+                {"tag": "v1.4.3", "pushed_at": "2026-11-19"}]},
+    {"name": "webshop/payments", "is_public": false,
+     "images": [{"tag": "latest", "pushed_at": "2026-11-18"},
+                {"tag": "v2.1.0", "pushed_at": "2026-11-18"}]}
+  ]
+}
