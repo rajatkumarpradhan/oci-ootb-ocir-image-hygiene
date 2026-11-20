@@ -1,0 +1,13 @@
+{
+  "repos": [
+    {"name": "webshop/frontend", "is_public": true,
+     "images": [{"tag": "prod", "pushed_at": "2026-11-18"},
+                {"tag": "v1.4.2", "pushed_at": "2026-11-18"}]},
+    {"name": "webshop/payments", "is_public": false,
+     "images": [{"tag": "latest", "pushed_at": "2026-11-19"}]},
+    {"name": "experiments/scaffold", "is_public": false, "images": []},
+    {"name": "webshop/legacy-api", "is_public": false,
+     "images": [{"tag": "latest", "pushed_at": "2026-01-15"},
+                {"tag": "v2.0.0", "pushed_at": "2026-01-15"}]}
+  ]
+}
